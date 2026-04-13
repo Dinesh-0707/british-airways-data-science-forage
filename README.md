@@ -13,20 +13,25 @@ This repository contains my completed work for the **British Airways Data Scienc
 
 The simulation placed me in the role of a data scientist on British Airways' Data Science team, working on two real-world business problems: modelling lounge demand at Heathrow Terminal 3, and predicting customer booking behaviour using machine learning.
 
-- Problem
+- Problem :
+  
 Airlines receive thousands of reviews — hard to extract insights.
 
-- Solution
+- Solution:
+  
 Built an NLP pipeline to classify sentiment and identify key issues.
 
-- Tools
+- Tools:
+  
 Python, Pandas, NLTK, Scikit-learn
 
-- Key Insights
+- Key Insights:
+  
 Negative sentiment linked to delays and staff behaviour
 Positive sentiment driven by service quality
 
-- Business Impact
+- Business Impact:
+  
 Helps airlines improve customer satisfaction and retention.
 ---
 
