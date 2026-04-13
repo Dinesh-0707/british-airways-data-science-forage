@@ -1,4 +1,4 @@
-# British Airways Data Science Job Simulation — Forage
+# Customer Sentiment Analysis for Airline Reviews
 
 ![British Airways](https://img.shields.io/badge/British%20Airways-Data%20Science-002157?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
@@ -13,11 +13,21 @@ This repository contains my completed work for the **British Airways Data Scienc
 
 The simulation placed me in the role of a data scientist on British Airways' Data Science team, working on two real-world business problems: modelling lounge demand at Heathrow Terminal 3, and predicting customer booking behaviour using machine learning.
 
-**Analyst:** Dinesh Navaneethan  
-**Programme:** British Airways Data Science | Forage  
-**Completed:** April 2025  
-**Tools:** Python · Pandas · Scikit-learn · Matplotlib · Seaborn · NLTK · BeautifulSoup · Excel · PowerPoint  
+- Problem
+Airlines receive thousands of reviews — hard to extract insights.
 
+- Solution
+Built an NLP pipeline to classify sentiment and identify key issues.
+
+- Tools
+Python, Pandas, NLTK, Scikit-learn
+
+- Key Insights
+Negative sentiment linked to delays and staff behaviour
+Positive sentiment driven by service quality
+
+- Business Impact
+Helps airlines improve customer satisfaction and retention.
 ---
 
 ## Repository Structure
